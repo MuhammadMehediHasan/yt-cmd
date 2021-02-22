@@ -7,7 +7,7 @@
     "start": "app.js"
   },
   "keywords": [
-    "YT_CMD"
+    "YT_CMD", "YouTube Downloader"
   ],
   "author": "Muhammad Mehedi Hasan",
   "license": "MIT",
