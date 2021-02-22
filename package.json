@@ -10,5 +10,8 @@
     "YT_CMD"
   ],
   "author": "Muhammad Mehedi Hasan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
