@@ -1,6 +1,6 @@
 {
   "name": "yt-cmd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a basic Command Line Tool that can Download Youtube Videos Easily",
   "main": "app.js",
   "scripts": {
